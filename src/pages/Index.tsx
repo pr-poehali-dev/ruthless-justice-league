@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import Icon from '@/components/ui/icon';
 
-const PASSWORD = 'amberveil';
+const PASSWORD = 'justice';
 
 const CHARACTERS = [
   {
